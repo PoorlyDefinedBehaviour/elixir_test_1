@@ -1,0 +1,15 @@
+<div id="messages" class="column"></div>
+
+<div class="row form-group">
+  <div class="col-md-3">
+    <input id="nameInput" type="text" class="form-control" placeholder="Name" />
+  </div>
+  <div class="col-md-9">
+    <input
+      id="messageInput"
+      type="text"
+      class="form-control"
+      placeholder="Message"
+    />
+  </div>
+</div>
